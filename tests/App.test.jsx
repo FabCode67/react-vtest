@@ -6,4 +6,4 @@ describe('App', () => {
     render(<App />);
     expect(screen.getByText(/ecommerce legend/i))
   })
-})
+}) 
